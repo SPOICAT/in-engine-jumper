@@ -5,7 +5,8 @@ An experimental jumper game which runs inside Godot Engine's editor as a dock.
 > Note: This was done on Godot Version 3.3.2 Stable
 
 If my description doesn't explain it. I have this screenshot:
-![Screenshot](https://raw.githubusercontent.com/SPOICAT/in-engine-jumper/main/info/Screenshot.png)
+
+![Screenshot](https://raw.githubusercontent.com/SPOICAT/in-engine-jumper/main/info/Screenshot.PNG)
 
 ## Results
 
